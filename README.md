@@ -1,4 +1,6 @@
-## Hi there 👋
+
+![github repo](https://github.com/user-attachments/assets/c22c5cd1-7b33-46e7-9466-eeb601134382)
+
 
 <!--
 **yusufkcmaz/yusufkcmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
